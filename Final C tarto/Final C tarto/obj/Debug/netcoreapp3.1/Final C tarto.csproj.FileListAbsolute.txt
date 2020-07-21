@@ -1,0 +1,13 @@
+C:\Users\migue\source\repos\Final C tarto\Final C tarto\bin\Debug\netcoreapp3.1\Final C tarto.exe
+C:\Users\migue\source\repos\Final C tarto\Final C tarto\bin\Debug\netcoreapp3.1\Final C tarto.deps.json
+C:\Users\migue\source\repos\Final C tarto\Final C tarto\bin\Debug\netcoreapp3.1\Final C tarto.runtimeconfig.json
+C:\Users\migue\source\repos\Final C tarto\Final C tarto\bin\Debug\netcoreapp3.1\Final C tarto.runtimeconfig.dev.json
+C:\Users\migue\source\repos\Final C tarto\Final C tarto\bin\Debug\netcoreapp3.1\Final C tarto.dll
+C:\Users\migue\source\repos\Final C tarto\Final C tarto\bin\Debug\netcoreapp3.1\Final C tarto.pdb
+C:\Users\migue\source\repos\Final C tarto\Final C tarto\obj\Debug\netcoreapp3.1\Final C tarto.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\Final C tarto\Final C tarto\obj\Debug\netcoreapp3.1\Final C tarto.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\Final C tarto\Final C tarto\obj\Debug\netcoreapp3.1\Final C tarto.AssemblyInfo.cs
+C:\Users\migue\source\repos\Final C tarto\Final C tarto\obj\Debug\netcoreapp3.1\Final C tarto.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Final C tarto\Final C tarto\obj\Debug\netcoreapp3.1\Final C tarto.dll
+C:\Users\migue\source\repos\Final C tarto\Final C tarto\obj\Debug\netcoreapp3.1\Final C tarto.pdb
+C:\Users\migue\source\repos\Final C tarto\Final C tarto\obj\Debug\netcoreapp3.1\Final C tarto.genruntimeconfig.cache
